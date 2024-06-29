@@ -1,5 +1,5 @@
-An E-commerce Platform using the C programming language for Sem-2 Case Study.
-This system should offer a comprehensive solution for online shopping and provides a seamless user experience. To leverage data structures and algorithms for efficient data processing and storage.
+An E-commerce Platform using C programming language for Sem-2 Case Study.
+This system should offer a comprehensive solution for online shopping and provide a seamless user experience.
 
 ### Objective: 
 To understand C programming language and its various applications. To also explore C's customizability and flexibility.
